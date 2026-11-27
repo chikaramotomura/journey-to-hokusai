@@ -147,7 +147,7 @@
       "screenings.s7Meta": "Festival Screening · May 2022",
       "screenings.s7Title": "Mendocino Film Festival — Mendocino, California",
       "praise.q1a":
-        "“Watching the film were very immersive — very physically engaging — because of where the viewer was placed as the film rolled. There was rarely a sense of the camera “watching” … just a sense of our being invited to be present.",
+        "“Watching the film was very immersive — very physically engaging — because of where the viewer was placed as the film rolled. There was rarely a sense of the camera “watching” … just a sense of our being invited to be present.",
       "praise.q1b": "There was so much true humankind, such genuine warmth between the men, which felt so good.",
       "praise.q1c":
         "I really appreciated how scenes of Tom learning were interspersed with segments of him traveling to other spots in Japan that “fleshed out” our understanding of the history of the process.”",
