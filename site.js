@@ -124,8 +124,8 @@
       "director.siteLink": "chikaramotomura.net ↗",
       "director.contactLink": "Contact Filmmaker ↗",
 
-      "screenings.eyebrow": "05 · Exhibition",
-      "screenings.heading": "Screenings.",
+      "screenings.eyebrow": "05 · Exhibition & Reception",
+      "screenings.heading": "Screenings & Praise.",
       "screenings.s1Meta": "World Premiere · October 2019",
       "screenings.s1Title": "Mill Valley Film Festival",
       "screenings.s1Detail":
@@ -146,6 +146,11 @@
       "screenings.s6Title": "Coronado Island Film Festival — Coronado, California",
       "screenings.s7Meta": "Festival Screening · May 2022",
       "screenings.s7Title": "Mendocino Film Festival — Mendocino, California",
+      "praise.q1a":
+        "“Watching the film were very immersive — very physically engaging — because of where the viewer was placed as the film rolled. There was rarely a sense of the camera “watching” … just a sense of our being invited to be present.",
+      "praise.q1b": "There was so much true humankind, such genuine warmth between the men, which felt so good.",
+      "praise.q1c":
+        "I really appreciated how scenes of Tom learning were interspersed with segments of him traveling to other spots in Japan that “fleshed out” our understanding of the history of the process.”",
       "screenings.artistLink": "Visit Tom Killion’s studio (tomkillion.com) ↗",
       "screenings.inquiries": "Screenings & Press Inquiries:",
 
@@ -317,8 +322,8 @@
       "director.siteLink": "公式サイト chikaramotomura.net ↗",
       "director.contactLink": "監督へのお問い合わせ ↗",
 
-      "screenings.eyebrow": "05 · 上映歴",
-      "screenings.heading": "上映情報。",
+      "screenings.eyebrow": "05 · 上映歴・観客の声",
+      "screenings.heading": "上映情報・観客の声。",
       "screenings.s1Meta": "ワールドプレミア · 2019年10月",
       "screenings.s1Title": "ミルバレー映画祭",
       "screenings.s1Detail":
@@ -339,6 +344,11 @@
       "screenings.s6Title": "コロナド・アイランド映画祭（カリフォルニア州コロナド）",
       "screenings.s7Meta": "映画祭上映 · 2022年5月",
       "screenings.s7Title": "メンドシーノ映画祭（カリフォルニア州メンドシーノ）",
+      "praise.q1a":
+        "「とても没入感のある映画でした。映像が進むにつれて観る者が置かれる位置のおかげで、身体ごと引き込まれるような体験でした。カメラが“見ている”という感覚はほとんどなく、ただその場に居合わせるよう招かれているように感じました。",
+      "praise.q1b": "男たちの間には本当の人間らしさと心からの温かさがあふれていて、とても心地よく感じました。",
+      "praise.q1c":
+        "トムが技法を学ぶ場面の合間に、日本各地を旅する場面が織り込まれ、その技法の歴史への理解を“肉付け”してくれる構成がとても良かったです。」",
       "screenings.artistLink": "トム・キリオン公式サイト（tomkillion.com）↗",
       "screenings.inquiries": "上映・取材のお問い合わせ：",
 
