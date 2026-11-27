@@ -1,6 +1,6 @@
 # JOURNEY TO HOKUSAI
 
-Official bilingual (`EN` / `日本語`) film website and post-purchase 4K Screening Room for **JOURNEY TO HOKUSAI** (2019, 80 min, 4K Ultra HD), a feature documentary produced, directed, photographed, and edited by **Chikara Motomura**.
+Official bilingual (`EN` / `日本語`) film website and post-purchase 4K Screening Room for **JOURNEY TO HOKUSAI** (2019, 80 min, DCI 4K), a feature documentary produced, directed, photographed, and edited by **Chikara Motomura**.
 
 - **Live site:** https://journeytohokusaifilm.com (GitHub Pages, `CNAME`)
 - **Rent Film (48-Hour 4K Streaming Pass):** `$4.99`

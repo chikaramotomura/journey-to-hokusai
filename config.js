@@ -46,8 +46,8 @@ window.SITE = {
     labelJa: "レンタル視聴",
     price: "$4.99",
     priceJa: "$4.99",
-    terms: "48-hour streaming pass in up to 4K Ultra HD. Includes both the English-subtitled and Japanese-subtitled editions.",
-    termsJa: "48時間の4K Ultra HDストリーミング視聴パス。英語字幕版・日本語字幕版の両方をご覧いただけます。",
+    terms: "48-hour streaming pass in up to DCI 4K. Includes both the English-subtitled and Japanese-subtitled editions.",
+    termsJa: "48時間のDCI 4Kストリーミング視聴パス。英語字幕版・日本語字幕版の両方をご覧いただけます。",
     // Stripe Payment Link from the "Journey to Hokusai streaming" account.
     // After-payment redirect: https://journeytohokusaifilm.com/watch.html?vm=1250414373&vmja=1250414371
     link: "https://buy.stripe.com/5kQbJ0ekfgBDchd9rubsc00",

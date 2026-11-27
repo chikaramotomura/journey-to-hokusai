@@ -31,7 +31,7 @@
       "hero.subtitle": "A woodblock artist’s pilgrimage to Japan",
       "hero.byline": "A film by Chikara Motomura",
       "hero.facts":
-        'Feature Documentary &middot; <span class="nowrap">80 min</span> &middot; <span class="nowrap">4K Ultra HD</span> &middot; <span class="nowrap">Japan &amp; California</span>',
+        'Feature Documentary &middot; <span class="nowrap">80 min</span> &middot; <span class="nowrap">DCI 4K</span> &middot; <span class="nowrap">Japan &amp; California</span>',
       "hero.ctaRent": "Rent Film — $4.99",
       "hero.ctaTrailer": "Watch Trailer",
 
@@ -43,14 +43,14 @@
       "trailer.playAria": "Play official trailer",
       "trailer.playLabel": "Play Trailer",
       "trailer.captionLeft": "Kyoto · Tokyo · Echizen · Obuse · Mt. Fuji",
-      "trailer.captionRight": "4K Ultra HD · Stereo",
+      "trailer.captionRight": "DCI 4K · Stereo",
 
       "watch.eyebrow": "01 · Digital Release",
       "watch.heading": "Watch Journey to Hokusai at Home.",
       "watch.lead":
-        "Stream the complete 80-minute documentary instantly in up to 4K Ultra HD, with both English-subtitled and Japanese-subtitled editions included.",
-      "watch.rentBadge": "48-Hour Rental · 4K Ultra HD",
-      "watch.rentFeat1": "Instant 80-minute feature stream in up to 4K Ultra HD",
+        "Stream the complete 80-minute documentary instantly in up to DCI 4K, with both English-subtitled and Japanese-subtitled editions included.",
+      "watch.rentBadge": "48-Hour Rental · DCI 4K",
+      "watch.rentFeat1": "Instant 80-minute feature stream in up to DCI 4K",
       "watch.rentFeat2": "48-hour viewing window from moment of purchase",
       "watch.rentFeat3": "Switch between English and Japanese subtitles",
       "watch.rentFeat4": "Watch on Mac, PC, iPhone, iPad, or AirPlay",
@@ -62,7 +62,7 @@
 
       "tier.rent.label": "Rent Film",
       "tier.rent.terms":
-        "48-hour streaming pass in up to 4K Ultra HD. Includes both the English-subtitled and Japanese-subtitled editions.",
+        "48-hour streaming pass in up to DCI 4K. Includes both the English-subtitled and Japanese-subtitled editions.",
 
       "film.eyebrow": "02 · The Story",
       "film.heading": "Two Artists, Two Centuries, One Woodblock.",
@@ -90,7 +90,7 @@
       "specs.runtimeDt": "Running Time",
       "specs.runtimeDd": "80 minutes (Feature Documentary)",
       "specs.masterDt": "Master Format",
-      "specs.masterDd": "4K (4096×2160) · 2:1",
+      "specs.masterDd": "4K (4096×2160) · 1.9:1",
       "specs.editionsDt": "Included Editions",
       "specs.editionsDd": "English Subtitled Edition & Japanese Subtitled Edition",
       "specs.audioDt": "Language & Audio",
@@ -192,7 +192,7 @@
       "watchRoom.hudAudio": "English & Japanese · EN / JP Subtitles",
       "watchRoom.gateTitle": "Screening Pass Required",
       "watchRoom.gateCopy":
-        "Rent <em>JOURNEY TO HOKUSAI</em> for <strong>$4.99</strong> to unlock a 48-hour 4K Ultra HD streaming pass. After Stripe checkout, you are automatically brought back here to watch the full film.",
+        "Rent <em>JOURNEY TO HOKUSAI</em> for <strong>$4.99</strong> to unlock a 48-hour DCI 4K streaming pass. After Stripe checkout, you are automatically brought back here to watch the full film.",
       "watchRoom.gateRentCta": "Rent Film — $4.99",
       "watchRoom.backHome": "About the Film",
       "watchRoom.verifyingTitle": "Verifying Screening Pass",
@@ -224,7 +224,7 @@
       "hero.subtitle": "ある木版画家が、自らの芸術の源流をたどる旅",
       "hero.byline": "本村 力 監督作品",
       "hero.facts":
-        '長編ドキュメンタリー &middot; <span class="nowrap">80分</span> &middot; <span class="nowrap">4K Ultra HD</span> &middot; <span class="nowrap">日本・カリフォルニア</span>',
+        '長編ドキュメンタリー &middot; <span class="nowrap">80分</span> &middot; <span class="nowrap">DCI 4K</span> &middot; <span class="nowrap">日本・カリフォルニア</span>',
       "hero.ctaRent": "レンタル視聴 — $4.99",
       "hero.ctaTrailer": "予告編を見る",
 
@@ -236,14 +236,14 @@
       "trailer.playAria": "公式予告編を再生",
       "trailer.playLabel": "予告編を再生",
       "trailer.captionLeft": "京都・東京・越前・小布施・富士山",
-      "trailer.captionRight": "4K Ultra HD · ステレオ",
+      "trailer.captionRight": "DCI 4K · ステレオ",
 
       "watch.eyebrow": "01 · デジタル配信",
       "watch.heading": "ご自宅で『Journey to Hokusai』を鑑賞する。",
       "watch.lead":
-        "80分の本編を最高4K Ultra HD画質で即時ストリーミング再生。英語字幕版・日本語字幕版の両方をお楽しみいただけます。",
-      "watch.rentBadge": "48時間レンタル · 4K Ultra HD",
-      "watch.rentFeat1": "80分の本編を最高4K Ultra HD画質で即時ストリーミング",
+        "80分の本編を最高DCI 4K画質で即時ストリーミング再生。英語字幕版・日本語字幕版の両方をお楽しみいただけます。",
+      "watch.rentBadge": "48時間レンタル · DCI 4K",
+      "watch.rentFeat1": "80分の本編を最高DCI 4K画質で即時ストリーミング",
       "watch.rentFeat2": "レンタル開始から48時間、いつでも視聴できます",
       "watch.rentFeat3": "英語字幕版と日本語字幕版を切り替え可能",
       "watch.rentFeat4": "Mac・PC・iPhone・iPad・AirPlayで鑑賞可能",
@@ -255,7 +255,7 @@
 
       "tier.rent.label": "レンタル視聴",
       "tier.rent.terms":
-        "48時間の4K Ultra HDストリーミング視聴パス。英語字幕版・日本語字幕版の両方をご覧いただけます。",
+        "48時間のDCI 4Kストリーミング視聴パス。英語字幕版・日本語字幕版の両方をご覧いただけます。",
 
       "film.eyebrow": "02 · 作品紹介",
       "film.heading": "二人の芸術家、二百年の時、一枚の版木。",
@@ -283,7 +283,7 @@
       "specs.runtimeDt": "上映時間",
       "specs.runtimeDd": "80分（長編ドキュメンタリー）",
       "specs.masterDt": "マスターフォーマット",
-      "specs.masterDd": "4K (4096×2160) · 2:1",
+      "specs.masterDd": "4K (4096×2160) · 1.9:1",
       "specs.editionsDt": "収録バージョン",
       "specs.editionsDd": "英語字幕版／日本語字幕版",
       "specs.audioDt": "言語・音声",
@@ -385,7 +385,7 @@
       "watchRoom.hudAudio": "英語・日本語 · 英語／日本語字幕",
       "watchRoom.gateTitle": "視聴パスが必要です",
       "watchRoom.gateCopy":
-        "『Journey to Hokusai』は<strong>$4.99</strong>（48時間の4K Ultra HDストリーミング視聴パス）にてご鑑賞いただけます。Stripeでのお支払い完了後、自動的にこのページで本編再生が解禁されます。",
+        "『Journey to Hokusai』は<strong>$4.99</strong>（48時間のDCI 4Kストリーミング視聴パス）にてご鑑賞いただけます。Stripeでのお支払い完了後、自動的にこのページで本編再生が解禁されます。",
       "watchRoom.gateRentCta": "レンタル視聴 — $4.99",
       "watchRoom.backHome": "作品ページへ戻る",
       "watchRoom.verifyingTitle": "視聴パスを確認しています",
@@ -402,7 +402,7 @@
     rent: {
       label: "Rent Film",
       terms:
-        "48-hour streaming pass in up to 4K Ultra HD. Includes both the English-subtitled and Japanese-subtitled editions."
+        "48-hour streaming pass in up to DCI 4K. Includes both the English-subtitled and Japanese-subtitled editions."
     }
   };
 
