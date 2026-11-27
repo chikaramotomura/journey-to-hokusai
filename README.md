@@ -1,4 +1,4 @@
-# JOURNEY TO HOKUSAI (北斎への旅)
+# JOURNEY TO HOKUSAI
 
 Official bilingual (`EN` / `日本語`) film website and post-purchase 4K Screening Room for **JOURNEY TO HOKUSAI** (2019, 80 min, 4K Ultra HD), a feature documentary produced, directed, photographed, and edited by **Chikara Motomura**.
 
@@ -18,7 +18,9 @@ Official bilingual (`EN` / `日本語`) film website and post-purchase 4K Screen
 
 `journeytohokusaifilm.com` must stay on each video's Vimeo embed allow-list.
 
-## Turning on Stripe checkout (`config.js`)
+## Stripe checkout (`config.js`)
+
+Live Payment Link (Journey to Hokusai Streaming account): `https://buy.stripe.com/5kQbJ0ekfgBDchd9rubsc00` — already set in `rent.link`. To recreate it:
 
 1. In the **Journey to Hokusai streaming** Stripe account, create a `$4.99` Payment Link
    (product: "JOURNEY TO HOKUSAI — 48-Hour Film Rental (4K Stream)").

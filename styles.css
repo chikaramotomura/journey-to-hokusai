@@ -1,5 +1,5 @@
 /* ==========================================================================
-   JOURNEY TO HOKUSAI (北斎への旅)
+   JOURNEY TO HOKUSAI
    Apple Modern Design System · Responsive · Accessible · Bilingual (EN / 日本語)
    ========================================================================== */
 
@@ -1959,8 +1959,8 @@ body.watch-room {
   letter-spacing: 0.1em;
 }
 
-@media (max-width: 420px) {
-  .site-nav-brand .brand-roman {
-    display: none;
+@media (min-width: 720px) {
+  .event-card--wide {
+    grid-column: 1 / -1;
   }
 }

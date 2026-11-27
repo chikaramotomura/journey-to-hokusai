@@ -1,5 +1,5 @@
 /* ==========================================================================
-   JOURNEY TO HOKUSAI (北斎への旅) — Configuration Wiring, Bilingual (EN / 日本語),
+   JOURNEY TO HOKUSAI — Configuration Wiring, Bilingual (EN / 日本語),
    Trailer Subtitle Switcher, Bento Lightbox & Stripe 4K Screening Room.
    Reads site, PostHog & Stripe settings exclusively from window.SITE (config.js).
    ========================================================================== */
@@ -28,7 +28,7 @@
       "nav.close": "Close",
 
       "hero.laurel": "Mill Valley Film Festival · World Premiere 2019",
-      "hero.subtitle": "A woodblock artist’s pilgrimage to the source of his art",
+      "hero.subtitle": "A woodblock artist’s pilgrimage to Japan",
       "hero.byline": "A film by Chikara Motomura",
       "hero.facts":
         'Feature Documentary &middot; <span class="nowrap">80 min</span> &middot; <span class="nowrap">4K Ultra HD</span> &middot; <span class="nowrap">Japan &amp; California</span>',
@@ -138,6 +138,14 @@
       "screenings.s3Title": "The Lark Theater — Larkspur, California",
       "screenings.s3Detail":
         "Returned to the big screen in Marin County at the historic Lark Theater.",
+      "screenings.s4Meta": "Festival Screening · June 2020",
+      "screenings.s4Title": "Fine Art Film Festival",
+      "screenings.s5Meta": "Festival Screening · June 2020",
+      "screenings.s5Title": "Lift-Off Tokyo Film Festival",
+      "screenings.s6Meta": "Festival Screening · November 2020",
+      "screenings.s6Title": "Coronado Island Film Festival — Coronado, California",
+      "screenings.s7Meta": "Festival Screening · May 2022",
+      "screenings.s7Title": "Mendocino Film Festival — Mendocino, California",
       "screenings.artistLink": "Visit Tom Killion’s studio (tomkillion.com) ↗",
       "screenings.inquiries": "Screenings & Press Inquiries:",
 
@@ -197,8 +205,8 @@
     },
 
     ja: {
-      pageTitle: "北斎への旅 JOURNEY TO HOKUSAI — 木版画家、北斎の源流をたどる | 本村 力 監督作品",
-      watchPageTitle: "スクリーニングルーム — 北斎への旅 JOURNEY TO HOKUSAI",
+      pageTitle: "JOURNEY TO HOKUSAI — 木版画家、北斎の源流をたどる | 本村 力 監督作品",
+      watchPageTitle: "スクリーニングルーム — JOURNEY TO HOKUSAI",
       skip: "レンタル案内へスキップ",
 
       "nav.trailer": "予告編",
@@ -220,7 +228,7 @@
       "hero.ctaRent": "レンタル視聴 — $4.99",
       "hero.ctaTrailer": "予告編を見る",
 
-      "trailer.regionAria": "『北斎への旅』公式4K予告編",
+      "trailer.regionAria": "『Journey to Hokusai』公式4K予告編",
       "trailer.kicker": "公式予告編",
       "trailer.subGroupAria": "予告編の字幕切り替え",
       "trailer.subEn": "英語字幕",
@@ -231,7 +239,7 @@
       "trailer.captionRight": "4K Ultra HD · ステレオ",
 
       "watch.eyebrow": "01 · デジタル配信",
-      "watch.heading": "ご自宅で『北斎への旅』を鑑賞する。",
+      "watch.heading": "ご自宅で『Journey to Hokusai』を鑑賞する。",
       "watch.lead":
         "80分の本編を最高4K Ultra HD画質で即時ストリーミング再生。英語字幕版・日本語字幕版の両方をお楽しみいただけます。",
       "watch.rentBadge": "48時間レンタル · 4K Ultra HD",
@@ -252,11 +260,11 @@
       "film.eyebrow": "02 · 作品紹介",
       "film.heading": "二人の芸術家、二百年の時、一枚の版木。",
       "film.epigraph":
-        "「この『北斎への旅』で私は学びました。北斎の芸術がいかに世界中へと広がり、人と自然の見方、そしてこの世界にある美の神秘的な力の捉え方に影響を与え、比類なき不滅の存在となったのかを。」<br>— トム・キリオン",
+        "「北斎をめぐるこの旅で、私は学びました。北斎の芸術がいかに世界中へと広がり、人と自然の見方、そしてこの世界にある美の神秘的な力の捉え方に影響を与え、比類なき不滅の存在となったのかを。」<br>— トム・キリオン",
       "film.logline":
         "トム・キリオンには長年の夢があった。日本へ行き、伝統的な手摺りの技法を学ぶことだ。幼い頃に北斎の版画に深く心を動かされたトムは、50年近くにわたりカリフォルニアの風景を描いた木版画を制作し、高い評価を得てきた。本作は、京都の五代目摺師・竹中健司のもとで、ついにその伝統技法を学ぶトムの日本への旅を追う。",
       "film.p1":
-        "『北斎への旅』は、一人の芸術家の創作過程と、自らの芸術の源流を発見していく姿を親密に見つめた長編ドキュメンタリーである。木版画家トム・キリオンは、19世紀の日本の絵師・葛飾北斎を心の師と仰ぎ、「史上最も才能ある芸術家」と語る。カリフォルニアの風景版画を制作する際、彼にとって最も重要な手本は北斎の風景版画だ。トムは200年前の北斎と同じように実際の風景を写生し、日本の彫刻刀で版木を彫る。しかし摺りの工程では、伝統的な水性絵具による手摺りではなく、ドイツ製のプレス機と油性インクを用いてきた。",
+        "『Journey to Hokusai』は、一人の芸術家の創作過程と、自らの芸術の源流を発見していく姿を親密に見つめた長編ドキュメンタリーである。木版画家トム・キリオンは、19世紀の日本の絵師・葛飾北斎を心の師と仰ぎ、「史上最も才能ある芸術家」と語る。カリフォルニアの風景版画を制作する際、彼にとって最も重要な手本は北斎の風景版画だ。トムは200年前の北斎と同じように実際の風景を写生し、日本の彫刻刀で版木を彫る。しかし摺りの工程では、伝統的な水性絵具による手摺りではなく、ドイツ製のプレス機と油性インクを用いてきた。",
       "film.p2":
         "映画はトムの旅のすべての段階を追う。カリフォルニアの風景を描いた下絵を選び、アトリエで版木を彫り、京都で五代目摺師・竹中健司から伝統的な摺りの技法を学び、そして作品を摺り上げるまで。その合間には、北斎へのオマージュが心に響くエピソードとして織り込まれる。東京にある北斎の墓、北斎の版画の紙を漉いていたであろう越前の九代目・人間国宝の紙漉き職人、北斎が晩年を過ごし重要な作品を残した信州・小布施の町、そして北斎が富士を描いた場所の数々を、トムは訪ねていく。",
       "film.pillar1Title": "描 · Sketch",
@@ -268,7 +276,7 @@
       "film.pillar3Title": "摺 · Print",
       "film.pillar3Copy":
         "京都でトムは、ドイツ製プレス機と油性インクを手放し、摺師・竹中健司の指導のもと、水性絵具と馬連による手摺りに挑む。",
-      "film.posterAlt": "『北斎への旅 JOURNEY TO HOKUSAI』公式ポスター",
+      "film.posterAlt": "『JOURNEY TO HOKUSAI』公式ポスター",
 
       "specs.eyebrow": "作品仕様",
       "specs.heading": "4Kシネママスター収録。",
@@ -305,7 +313,7 @@
       "director.p1":
         "日本出身、サンフランシスコ・ベイエリア在住。ニューヨーク、ハワイ、サンフランシスコでテレビ／映画制作に携わっておよそ35年。ニューヨークでキャリアをスタートし、NHKをはじめとする日本のテレビ局向け番組のディレクター／撮影監督として20年以上活動。",
       "director.p2":
-        "1997年よりベイエリアに拠点を移し、カンヌ国際映画祭カメラ・ドールおよびサンダンス映画祭審査員大賞受賞監督ロブ・ニルソンの独立映画14作品に主要スタッフとして参画したほか、ピーボディ賞受賞報道番組『Mosaic』（Link TV）で撮影・編集を担当。撮影から録音・編集まで単独で手がける長編ドキュメンタリーに『北斎への旅』（2019年）、『木乃婦 — 食、伝統、アイデンティティ』（2025年）、そして現在制作中の『The Last Boatbuilder（最後の和船大工）』がある。",
+        "1997年よりベイエリアに拠点を移し、カンヌ国際映画祭カメラ・ドールおよびサンダンス映画祭審査員大賞受賞監督ロブ・ニルソンの独立映画14作品に主要スタッフとして参画したほか、ピーボディ賞受賞報道番組『Mosaic』（Link TV）で撮影・編集を担当。撮影から録音・編集まで単独で手がける長編ドキュメンタリーに『Journey to Hokusai』（2019年）、『木乃婦 — 食、伝統、アイデンティティ』（2025年）、そして現在制作中の『The Last Boatbuilder（最後の和船大工）』がある。",
       "director.siteLink": "公式サイト chikaramotomura.net ↗",
       "director.contactLink": "監督へのお問い合わせ ↗",
 
@@ -323,6 +331,14 @@
       "screenings.s3Title": "ラーク・シアター（カリフォルニア州ラークスパー）",
       "screenings.s3Detail":
         "マリン郡の歴史ある映画館ラーク・シアターで、再びスクリーンに。",
+      "screenings.s4Meta": "映画祭上映 · 2020年6月",
+      "screenings.s4Title": "ファインアート映画祭（Fine Art Film Festival）",
+      "screenings.s5Meta": "映画祭上映 · 2020年6月",
+      "screenings.s5Title": "Lift-Off Tokyo 映画祭",
+      "screenings.s6Meta": "映画祭上映 · 2020年11月",
+      "screenings.s6Title": "コロナド・アイランド映画祭（カリフォルニア州コロナド）",
+      "screenings.s7Meta": "映画祭上映 · 2022年5月",
+      "screenings.s7Title": "メンドシーノ映画祭（カリフォルニア州メンドシーノ）",
       "screenings.artistLink": "トム・キリオン公式サイト（tomkillion.com）↗",
       "screenings.inquiries": "上映・取材のお問い合わせ：",
 
@@ -360,16 +376,16 @@
 
       "watchRoom.skip": "プレーヤーへスキップ",
       "watchRoom.subGroupAria": "本編の字幕切り替え",
-      "watchRoom.backAria": "『北斎への旅』トップページへ戻る",
+      "watchRoom.backAria": "『Journey to Hokusai』トップページへ戻る",
       "watchRoom.options": "レンタル視聴",
-      "watchRoom.vfAria": "『北斎への旅』本編プレーヤー",
+      "watchRoom.vfAria": "『Journey to Hokusai』本編プレーヤー",
       "watchRoom.modeDefault": "スクリーニングルーム",
       "watchRoom.modeRent": "48時間レンタル · 4K",
       "watchRoom.hudDir": "監督：本村 力",
       "watchRoom.hudAudio": "英語・日本語 · 英語／日本語字幕",
       "watchRoom.gateTitle": "視聴パスが必要です",
       "watchRoom.gateCopy":
-        "『北斎への旅』は<strong>$4.99</strong>（48時間の4K Ultra HDストリーミング視聴パス）にてご鑑賞いただけます。Stripeでのお支払い完了後、自動的にこのページで本編再生が解禁されます。",
+        "『Journey to Hokusai』は<strong>$4.99</strong>（48時間の4K Ultra HDストリーミング視聴パス）にてご鑑賞いただけます。Stripeでのお支払い完了後、自動的にこのページで本編再生が解禁されます。",
       "watchRoom.gateRentCta": "レンタル視聴 — $4.99",
       "watchRoom.backHome": "作品ページへ戻る",
       "watchRoom.verifyingTitle": "視聴パスを確認しています",
@@ -378,7 +394,7 @@
       "watchRoom.expiredCopy":
         "視聴パスを確認できないか、48時間のレンタル期間が終了しています。トップページへ戻るか、サポートまでお問い合わせください。",
       "watchRoom.rentalUntil": "48時間レンタル有効 · 視聴期限：",
-      "watchRoom.ytRent": "『北斎への旅』をレンタルいただき、ありがとうございます。このページをブックマークしてご利用ください（48時間有効）。"
+      "watchRoom.ytRent": "『Journey to Hokusai』をレンタルいただき、ありがとうございます。このページをブックマークしてご利用ください（48時間有効）。"
     }
   };
 

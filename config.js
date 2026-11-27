@@ -50,7 +50,7 @@ window.SITE = {
     termsJa: "48時間の4K Ultra HDストリーミング視聴パス。英語字幕版・日本語字幕版の両方をご覧いただけます。",
     // Stripe Payment Link from the "Journey to Hokusai streaming" account.
     // After-payment redirect: https://journeytohokusaifilm.com/watch.html?vm=1250414373&vmja=1250414371
-    link: "",
+    link: "https://buy.stripe.com/5kQbJ0ekfgBDchd9rubsc00",
     linkJa: ""    // <-- Optional dedicated Japanese Stripe Payment Link
   },
 
