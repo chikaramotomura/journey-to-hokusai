@@ -113,7 +113,7 @@
       "stills.s4Alt": "A brush spreading blue watercolor pigment across a carved woodblock",
       "stills.s4Cap": "Brushing watercolor pigment onto a carved woodblock",
       "stills.s5Alt": "Tom Killion carefully placing a hand-printed sheet onto the woodblock",
-      "stills.s5Cap": "Tom carefully places a hand-printed impression to the block",
+      "stills.s5Cap": "Tom carefully lays the hand-printed paper onto the block",
 
       "director.eyebrow": "04 · Filmmaker",
       "director.heading": "Chikara Motomura",
