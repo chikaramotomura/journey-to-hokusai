@@ -112,8 +112,8 @@
       "stills.s3Cap": "Mt. Fuji — the mountain Hokusai drew again and again",
       "stills.s4Alt": "A brush spreading blue watercolor pigment across a carved woodblock",
       "stills.s4Cap": "Brushing watercolor pigment onto a carved woodblock",
-      "stills.s5Alt": "Tom Killion lifting a freshly printed sheet from the woodblock",
-      "stills.s5Cap": "Tom lifts a fresh hand-printed impression from the block",
+      "stills.s5Alt": "Tom Killion carefully placing a hand-printed sheet onto the woodblock",
+      "stills.s5Cap": "Tom carefully places a hand-printed impression to the block",
 
       "director.eyebrow": "04 · Filmmaker",
       "director.heading": "Chikara Motomura",
@@ -310,8 +310,8 @@
       "stills.s3Cap": "北斎が幾度も描いた富士の姿",
       "stills.s4Alt": "彫り上がった版木に青い水性絵具を刷毛で広げる手元",
       "stills.s4Cap": "版木に刷毛で水性絵具をのせる",
-      "stills.s5Alt": "摺り上がったばかりの紙を版木から持ち上げるトム・キリオン",
-      "stills.s5Cap": "手摺りしたばかりの一枚を版木から剥がすトム",
+      "stills.s5Alt": "手摺りの紙を慎重に版木の上へ置くトム・キリオン",
+      "stills.s5Cap": "手摺りの紙を慎重に版木へ重ねるトム",
 
       "director.eyebrow": "04 · 監督プロフィール",
       "director.heading": "本村 力（Chikara Motomura）",
